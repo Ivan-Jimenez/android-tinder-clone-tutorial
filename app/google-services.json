@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "353105715129",
+    "firebase_url": "https://tinder-clone-tutorial.firebaseio.com",
+    "project_id": "tinder-clone-tutorial",
+    "storage_bucket": "tinder-clone-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353105715129:android:990ce9cb7323ad5a",
+        "android_client_info": {
+          "package_name": "mx.ivancastro.android_tinder_clone_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353105715129-pmv19h09fbldr4m701psqbj2fj7blolu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.ivancastro.android_tinder_clone_tutorial",
+            "certificate_hash": "b4d844d96b828a8df7d972e453a2723a9790b33b"
+          }
+        },
+        {
+          "client_id": "353105715129-aakafmksgib70r738e4fkd11j1q0pqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH86QDpx2I71L7C3eJTbCzAGMM1j9m1VI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353105715129-aakafmksgib70r738e4fkd11j1q0pqd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
