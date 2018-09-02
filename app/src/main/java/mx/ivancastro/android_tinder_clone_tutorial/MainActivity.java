@@ -1,8 +1,3 @@
-/**
- * TODO: Video part2
- * */
-
-
 package mx.ivancastro.android_tinder_clone_tutorial;
 
 import android.content.Context;
@@ -39,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mAuth.getInstance();
+        mAuth = FirebaseAuth.getInstance();
 
         checkUserSex();
 
@@ -82,7 +77,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
 
         // Optionally add an OnItemClickListener
         flingContainer.setOnItemClickListener(new SwipeFlingAdapterView.OnItemClickListener() {
